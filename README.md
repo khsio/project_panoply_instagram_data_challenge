@@ -19,7 +19,7 @@ For complete write-up and code of this project, please go to my post on [medium]
 5. Lastly, use Mode to build visualizations and submit to the challenge.  
 
 ## References
-* (https://panoply.io)
+* https://panoply.io
 * https://www.instagram.com/
 * https://mode.com/
 * https://learn.panoply.io/instagram-data-challenge?hsCtaTracking=e1b846c2-34ad-47b7-bb07-0df8fd097604%7C91cf5c09-a1da-4592-9a8b-cb24c2be6900
